@@ -1,0 +1,28 @@
+﻿# ===== Build output =====
+bin/
+obj/
+
+# ===== Visual Studio =====
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===== Logs =====
+*.log
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ===== User secrets =====
+secrets.json
+
+# ===== Publish output =====
+publish/
+
+# ===== EF / backups =====
+*.bak
+*.cache
